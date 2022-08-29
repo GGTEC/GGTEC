@@ -22,7 +22,7 @@ Pretendo um dia trabalhar e viver disso.</h3>
  </div>
 
  <div align="center" style="width:150px;">
- <h2>RewardRequests</h2> 
+ <h2>RewardEvents</h2> 
  <p>Sistema de eventos com resgate de recompensas da twitch</p>
  <img src="https://img.shields.io/github/downloads/GGTEC/Reward-Request/total.svg" width=100;>
  <h2><a href="https://github.com/GGTEC/RewardEvents">Download RewardEvents</a></h2>
