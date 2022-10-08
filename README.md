@@ -13,17 +13,8 @@ Pretendo um dia trabalhar e viver disso.</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=ggtec&show_icons=true&theme=midnight-purple&locale=pt-br">
 </div>
 
-
- <div align="center" style="width:150px">
- <h2>SongRequestByRedeem</h2> 
- <p>Sistema de pedidos de musica com com resgate de recompensa da twitch</p>
- <h2><a href="https://github.com/GGTEC/SRBR">Download SRBR</a></h2>
- <img src="https://img.shields.io/github/downloads/GGTEC/SRBR/total.svg" width=100;>
- </div>
-
  <div align="center" style="width:150px;">
- <h2>RewardEvents</h2> 
- <p>Sistema de eventos com resgate de recompensas da twitch</p>
- <img src="https://img.shields.io/github/downloads/GGTEC/Reward-Request/total.svg" width=100;>
- <h2><a href="https://github.com/GGTEC/RewardEvents">Download RewardEvents</a></h2>
+ <h2>Site dos meus principais programas</h2> 
+ ##<img src="https://img.shields.io/github/downloads/GGTEC/Reward-Request/total.svg" width=100;>
+ <h2><a href="ggtec.github.io/GGTECApps">Visitar</a></h2>
  </div>
