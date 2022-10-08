@@ -19,5 +19,5 @@ Pretendo um dia trabalhar e viver disso.</h3>
  <p>Downloads RewardEvents</p>
  <img src="https://img.shields.io/github/downloads/GGTEC/RewardEvents/total.svg" width=100;>
  <p>Downloads SRBR</p>
- <img src="https://img.shields.io/github/downloads/GGTEC/RewardEvents/total.svg" width=100;>
+ <img src="https://img.shields.io/github/downloads/GGTEC/SRBR/total.svg" width=100;>
  </div>
