@@ -15,6 +15,9 @@ Pretendo um dia trabalhar e viver disso.</h3>
 
  <div align="center" style="width:150px;">
  <h2>Site dos meus principais programas</h2> 
- ##<img src="https://img.shields.io/github/downloads/GGTEC/Reward-Request/total.svg" width=100;>
  <h2><a href="ggtec.github.io/GGTECApps">Visitar</a></h2>
+ <p>Downloads RewardEvents</p>
+ <img src="https://img.shields.io/github/downloads/GGTEC/RewardEvents/total.svg" width=100;>
+ <p>Downloads SRBR</p>
+ <img src="https://img.shields.io/github/downloads/GGTEC/RewardEvents/total.svg" width=100;>
  </div>
