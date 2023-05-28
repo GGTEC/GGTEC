@@ -15,7 +15,7 @@ Pretendo um dia trabalhar e viver disso.</h3>
 
  <div align="center" style="width:150px;">
  <h2>Site para o RewardEvents</h2> 
- <h2><a href="https://ggtec.github.io/GGTECApps/">Visitar</a></h2>
+ <h2><a href="https://ggtec.netlify.app/apps/re/">Visitar</a></h2>
  <p>Downloads RewardEvents</p>
  <img src="https://img.shields.io/github/downloads/GGTEC/RewardEvents/total.svg" width=100;>
  </div>
